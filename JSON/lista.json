@@ -1,0 +1,16 @@
+{
+  "carros": [
+    {
+      "marca": "KIA",
+      "color": "Rojo"
+    },
+    {
+      "marca": "Ford",
+      "color": "Negro"
+    },
+    {
+      "marca": "Chevrolet",
+      "color": "Blanco"
+    }
+  ]
+}
